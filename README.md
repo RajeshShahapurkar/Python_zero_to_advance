@@ -4,8 +4,6 @@ A structured collection of Python programs, exercises, practice problems, and co
 
 This repository serves as a personal learning journey and practical reference for understanding Python through hands-on coding.
 
----
-
 ## 📌 About This Repository
 
 **Python Zero to Advance** contains the programs and exercises I complete while following a comprehensive Python learning playlist.
@@ -21,8 +19,6 @@ The goal of this repository is to learn Python concepts progressively by:
 - Building a strong foundation for advanced Python development
 
 Each section contains programs related to the concepts covered during the learning process.
-
----
 
 ## 📚 Topics Covered
 
