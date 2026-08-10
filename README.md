@@ -1,6 +1,6 @@
 # 🐍 Python Zero to Advance
 
-A structured collection of Python programs, exercises, practice problems, and concepts learned while progressing from the fundamentals of Python to advanced topics.
+A structured collection of Python programs, exercises, practice problems, and concepts learned while progressing from the fundamentals of Python to advanced topics. 
 
 This repository serves as a personal learning journey and practical reference for understanding Python through hands-on coding.
 
