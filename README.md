@@ -30,7 +30,7 @@ The repository is organized progressively, starting from the basics and moving t
 - Variables
 - Data Types
 - Type Casting
-- Input & Output
+- Input & Output 
 - Operators
 - Comments
 - Basic Programs
